@@ -1,0 +1,14 @@
+type Book {
+    title: String
+    author: String @deprecated(reason:"this field is deprecated. Dont't use it")
+}
+
+type Car {
+    make: String
+    model: String
+}
+
+type Query {
+    books: [Book]
+    cars: [Car]
+}
