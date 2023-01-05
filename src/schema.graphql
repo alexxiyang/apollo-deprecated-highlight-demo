@@ -1,10 +1,10 @@
 type Book {
-    title: String
-    author: String @deprecated(reason:"this field is deprecated. Dont't use it")
+    title: String @deprecated(reason:"title is deprecated. Dont't use it")
+    author: String @deprecated(reason:"author is deprecated. Dont't use it")
 }
 
 type Car {
-    make: String
+    make: String @deprecated(reason:"make is deprecated. Dont't use it")
     model: String
 }
 

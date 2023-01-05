@@ -444,12 +444,11 @@ acorn@^8.4.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.8.1.tgz#0a3f9cbecc4ec3bea6f0a80b66ae8dd2da250b73"
   integrity sha512-7zFpHzhnqYKrkYdUjF1HI1bzd0VygEGX8lFk4k5zVMqHEoES+P+7TKI+EvLO9WVMJ8eekdO0aDEK044xTXwPPA==
 
-apollo-deprecated-highlight@^1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/apollo-deprecated-highlight/-/apollo-deprecated-highlight-1.1.8.tgz#6f4285fd97dd26e79abcbb14332e60dc46d2f9c1"
-  integrity sha512-wDHEeX45xBr/dRofPAugqo1BD3V+DF9VTaXpCv+i7E9r2iGxE9Z0u4E7je+FRNlTWrizKqyAhUIzsbkzhaE5iw==
+apollo-deprecated-highlight@^1.1.12:
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/apollo-deprecated-highlight/-/apollo-deprecated-highlight-1.1.12.tgz#aeaddc8e75b8c2f068adc5244e550268f58a4b1a"
+  integrity sha512-/W0FXNcdvhn0gHU3nOpgJtQDA+E64Fe0EssXX6dG8EbGD9bCIA8UPDtjl9ts6FsiGclCp0zako2qVbU8LYXEEA==
   dependencies:
-    "@apollo/server" "^4.3.0"
     graphql "^16.6.0"
 
 arg@^4.1.0:

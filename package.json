@@ -31,7 +31,7 @@
     "@graphql-tools/graphql-file-loader": "^7.5.13",
     "@graphql-tools/load": "^7.8.8",
     "@graphql-tools/load-files": "^6.6.1",
-    "apollo-deprecated-highlight": "^1.1.8",
+    "apollo-deprecated-highlight": "^1.1.12",
     "graphql": "^16.6.0"
   }
 }
